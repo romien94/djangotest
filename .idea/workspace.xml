@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d75767d4-565a-4415-891c-ad04fb87bed5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fl5FOcEvZ8PZ4GdhRvB4JrzI4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\djangotest\mydjangosite\news\templates\news" />
+      <recent name="D:\PyCharm\djangotest\mydjangosite\news" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="djangotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mydjangosite/mydjangosite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydjangosite/mydjangosite/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d75767d4-565a-4415-891c-ad04fb87bed5" name="Default Changelist" comment="" />
+      <created>1596779733202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596779733202</updated>
+      <workItem from="1596779738714" duration="387000" />
+      <workItem from="1596780126984" duration="13448000" />
+      <workItem from="1596868396953" duration="1387000" />
+      <workItem from="1596880056248" duration="11784000" />
+      <workItem from="1596905916749" duration="316000" />
+      <workItem from="1596948892260" duration="12288000" />
+      <workItem from="1597030810542" duration="29134000" />
+      <workItem from="1597115717654" duration="8520000" />
+      <workItem from="1597156575349" duration="6096000" />
+      <workItem from="1597207488650" duration="9414000" />
+      <workItem from="1597228897809" duration="15548000" />
+      <workItem from="1597259260446" duration="1349000" />
+      <workItem from="1597313802771" duration="13651000" />
+      <workItem from="1597395392538" duration="1097000" />
+      <workItem from="1597396719604" duration="490000" />
+      <workItem from="1597397219446" duration="4652000" />
+      <workItem from="1597429587978" duration="1246000" />
+      <workItem from="1597468366700" duration="3201000" />
+      <workItem from="1597497330197" duration="643000" />
+      <workItem from="1597564697970" duration="3445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1597468392993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1597468392993" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596781647049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596781647049" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597475192925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597475192925" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597397608748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597397608748" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597397608748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597397608748" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597397608747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597397608747" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597397608748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597397608748" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1597566904266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597566904266" />
+    <state x="667" y="122" width="585" height="795" key="find.popup" timestamp="1597400501963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="122" width="585" height="795" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597400501963" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597323361205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1597323361205" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/djangotest$settings.coverage" NAME="settings Coverage Results" MODIFIED="1597397596544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mydjangosite/mydjangosite" />
+  </component>
+</project>

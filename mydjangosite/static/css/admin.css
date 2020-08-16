@@ -1,0 +1,34 @@
+div#header {
+    padding: 20px 40px;
+}
+
+div.breadcrumbs {
+    background-color: #90a4ae;
+}
+
+#header, .module h2, .module caption, .inline-group h2 {
+    background: #546e7a;
+    color: white;
+}
+
+
+#branding h1, #branding h1 a:link, #branding h1 a:visited,
+#header a:link, #header a:visited {
+    color: white;
+}
+
+#branding h1 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#user-tools {
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+#user-tools a:focus, #user-tools a:hover, #branding h1 a:hover {
+    color: #00b8d4;
+    border-bottom-color: #00b8d4;
+    transition: .7s;
+}
